@@ -36,7 +36,7 @@
         /* Modal Styles */
         /* Modal Styles */
 .modal {
-    display: none; /* Initially hidden */
+    display: black; /* Initially hidden */
     position: fixed;
     top: 0;
     left: 0;
